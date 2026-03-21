@@ -8,7 +8,7 @@
 
 ### Vista del Robot
 
-| Vista frontal | Vista lateral |
+| Vista Robot |
 |:-:|:-:|
 | ![Robot PROTEUS](images/Robot_proteus.jpeg) | ![Robot Proteus ](images/Robot_proteus2.jpeg) |
 
