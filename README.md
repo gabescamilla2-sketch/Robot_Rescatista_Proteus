@@ -10,7 +10,7 @@
 
 | Vista frontal | Vista lateral |
 |:-:|:-:|
-| ![Robot PROTEUS frontal](images/robot_proteus.JPEG) | ![Robot PROTEUS lateral](images/robot_proteus2.JPEG) |
+| ![Robot PROTEUS frontal](images/robot_proteus.jpeg) | ![Robot PROTEUS lateral](images/robot_proteus2.jpeg) |
 
 ---
 
