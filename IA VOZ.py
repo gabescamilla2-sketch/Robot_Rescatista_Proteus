@@ -526,9 +526,7 @@ class ProteusGUI:
     def start_assistant(self):
         try:
             API_KEYS = [
-                "AIzaSyCzo58_cMc3T5fuXgboFS1I9_qveJArXr8",
-                "AIzaSyBsnUYrfeXGhnGb5yNTu92AjBv-ELTmTZI", 
-                "AIzaSyCePhIN_WKtCt9G-wIjRzlUOTMMMJUCCtw"
+                "AGREGAR TU APIKEY"
             ]
             
             valid_keys = [key for key in API_KEYS if key and len(key) > 20]
