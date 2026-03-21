@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"files.eol": "\n",
+	"debug.openDebug": "neverOpen",
+	"python.linting.enabled": false,
+	"python.languageServer": "None",
+	"python-envs.defaultEnvManager": "ms-python.python:system",
+	"python-envs.defaultPackageManager": "ms-python.python:pip",
+	"python-envs.pythonProjects": []
+}
