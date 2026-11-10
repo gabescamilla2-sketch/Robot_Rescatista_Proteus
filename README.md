@@ -238,4 +238,6 @@ Este proyecto fue desarrollado con fines académicos y de investigación.
 
 ---
 
-> 🛠️ Desarrollado por [@gabescamilla2-sketch](https://github.com/gabescamilla2-sketch)
+> 🛠️ Desarrollado por Gabriel Alejandro Escamilla Barahona
+>  [@gabescamilla2-sketch](https://github.com/gabescamilla2-sketch)
+> GMAIL: gabescamilla2@gmail.com
